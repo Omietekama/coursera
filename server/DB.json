@@ -1,0 +1,616 @@
+{
+  "results": [
+    {
+      "blocks_url": "https://www.youtube.com/embed/RBSGKlAvoiM",
+      "effort": "2:00",
+      "end": null,
+      "enrollment_start": "2022-07-21T10:00:00Z",
+      "enrollment_end": "2022-06-29T10:00:00Z",
+      "id": "ccx-v1:adam+Mac_APccx+e0d+ccx@3",
+      "media": {
+        "banner_image": {
+          "uri": "/asset-v1:adam+Mac_APccx+e0d+type@asset+block@images_course_image.jpg",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/RBSGKlAvoiM/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/RBSGKlAvoiM"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/RBSGKlAvoiM/maxresdefault.jpg",
+          "small": "https://i3.ytimg.com/vi/RBSGKlAvoiM/maxresdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/RBSGKlAvoiM/maxresdefault.jpg"
+        }
+      },
+      "name": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
+      "number": "Mac_APccx",
+      "org": "William  Fiset",
+      "short_description": "Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually.You will learn how to code various data structures together with simple to follow step-by-step instructions. Every data structure presented will be accompanied by some working source code (in Java) to solidify your understanding.",
+      "start": "2022-06-27T14:10:44Z",
+      "start_display": "June 27, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": false,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@1"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/3Kq1MIfTWCE",
+      "effort": "2:00",
+      "end": null,
+      "enrollment_start": "2015-07-21T10:00:00Z",
+      "enrollment_end": "2016-06-29T10:00:00Z",
+      "id": "ccx-v1:adam+Mac_APccx+e0d+ccx@1",
+      "media": {
+        "banner_image": {
+          "uri": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/3Kq1MIfTWCE"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
+          "small": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg"
+        }
+      },
+      "name": "Full Ethical Hacking Course - Network Penetration Testing for Beginners",
+      "number": "Mac_APccx",
+      "org": " Maverick Adam",
+      "short_description": "Learn network penetration testing / ethical hacking in this full tutorial course for beginners. This course teaches everything you need to know to get started with ethical hacking and penetration testing. You will learn the practical skills necessary to work in the field. Throughout the course, we will develop our own Active Directory lab in Windows, make it vulnerable, hack it, and patch it. We'll cover the red and blue sides. We'll also cover some of the boring stuff like report writing :). This course was originally live streamed weekly on Twitch and built from lessons learned in the previous week. ",
+      "start": "2022-06-27T14:10:48Z",
+      "start_display": "June 27, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": false,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@2"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/grEKMHGYyns",
+      "effort": "one hour/day",
+      "end": null,
+      "enrollment_start": null,
+      "enrollment_end": "2022-07-18T00:00:00Z",
+      "id": "ccx-v1:BerkeleyX+CS169.1x+3T2015SP+ccx@11",
+      "media": {
+        "banner_image": {
+          "uri": "/asset-v1:BerkeleyX+CS169.1x+3T2015SP+type@asset+block@images_course_image.jpg",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/grEKMHGYyns/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/grEKMHGYyns"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/grEKMHGYyns/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/grEKMHGYyns/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/grEKMHGYyns/maxresdefault.jpg"
+        }
+      },
+      "name": "Learn Java 8 and object oriented programming with this complete Java course for beginners.",
+      "number": "CS169.1x",
+      "org": "Marcus Biel",
+      "short_description": "CS169.1x teaches the fundamentals for engineering long-lived software using Agile techniques to develop Software as a Service (SaaS) java.",
+      "start": "2022-06-07T20:00:00Z",
+      "start_display": "June 7, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@3"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/8DvywoWv6fI",
+      "effort": "one hour/week",
+      "end": null,
+      "enrollment_start": null,
+      "enrollment_end": "2016-07-18T00:00:00Z",
+      "id": "ccx-v1:BerkeleyX+CS169.1x+3T2015SP+ccx@5",
+      "media": {
+        "banner_image": {
+          "uri": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/8DvywoWv6fI"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/8DvywoWv6fI/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg"
+        }
+      },
+      "name": "Python for Everybody - Full University Python Course",
+      "number": "CS169.1x",
+      "org": "BerkeleyX",
+      "short_description": "This course was created by Dr. Charles Severance (a.k.a. Dr. Chuck). He is a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and Web development.'Python for Everybody' by Dr. Chuck Severance and the University of Michigan is licensed under CC BY.",
+      "start": "2016-05-24T20:00:00Z",
+      "start_display": "May 24, 2016",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@4"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/LHBE6Q9XlzI",
+      "effort": null,
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@12",
+      "media": {
+        "banner_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
+          "uri_absolute": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg"
+        },
+        "course_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/LHBE6Q9XlzI"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/LHBE6Q9XlzI/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/LHBE6Q9XlzI/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/LHBE6Q9XlzI/maxresdefault.jpg"
+        }
+      },
+      "name": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
+      "number": "PY1x",
+      "org": "Maxwell Armi",
+      "short_description": "This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.",
+      "start": "2022-09-12T16:14:32Z",
+      "start_display": "Sept. 12, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@5"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/0oyCUWLL_fU",
+      "effort": null,
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@13",
+      "media": {
+        "banner_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/0oyCUWLL_fU"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/0oyCUWLL_fU/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/0oyCUWLL_fU/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/0oyCUWLL_fU/maxresdefault.jpg"
+        }
+      },
+      "name": "Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard",
+      "number": "PY1x",
+      "org": "Jeremy Howard",
+      "short_description": "Practical Deep Learning for Coders is a course from fast.ai designed to give you a complete introduction to deep learning. This course was created to make deep learning accessible to as many people as possible. The only prerequisite for this course is that you know how to code (a year of experience is enough), preferably in Python, and that you have at least followed a high school math course.This course was developed by Jeremy Howard and Sylvain Gugger. Jeremy has been using and teaching machine learning for around 30 years. He is the former president of Kaggle, the world's largest machine learning community. Sylvain Gugger is a researcher who has written 10 math textbooks.",
+      "start": "2022-09-12T06:00:00Z",
+      "start_display": "Sept. 12, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@6"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/GixS3l0cg3Y",
+      "effort": "one hour/day",
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@14",
+      "media": {
+        "banner_image": {
+          "uri": "",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/GixS3l0cg3Y"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/GixS3l0cg3Y/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/GixS3l0cg3Y/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/GixS3l0cg3Y/maxresdefault.jpg"
+        }
+      },
+      "name": "Big Data Tutorial | Big Data Full Course | Big Data Analytics | Big Data Hadoop | Simplilearn",
+      "number": "PY1x",
+      "org": "Simplilearn",
+      "short_description": "In this full course video on Big data, you will learn about Big data, Hadoop, and Spark. First, we will look into a big data tutorial, the challenges in big data, and how Hadoop solves these challenges. You will learn how to install Hadoop, then understand the various components of Hadoop which are HDFS, MapReduce, and YARN. HDFS will teach you how to store big data, and MapReduce will show you how to process this big data. In YARN, you will learn how cluster resource management works. In addition to these components, you will also look into the Hadoop ecosystem, which consists of Hive, Pig, Sqoop, and HBase.",
+      "start": "2016-09-12T18:00:00Z",
+      "start_display": "Sept. 12, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@7"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/ynkHdu8vOYQ",
+      "effort": "one hour/day",
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@17",
+      "media": {
+        "banner_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
+          "uri_absolute": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg"
+        },
+        "course_image": {
+          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/ynkHdu8vOYQ"
+        },
+        "image": {
+          "raw": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png",
+          "small": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@thumbnail+block@AP_Physics_Dashboard_Image-png-375x200.jpg",
+          "large": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@thumbnail+block@AP_Physics_Dashboard_Image-png-750x400.jpg"
+        }
+      },
+      "name": "DevOps Tools Full Course 2022 | DevOps Tools Explained | DevOps Tools Tutorial | Simplilearn",
+      "number": "PY1x",
+      "org": "Mathew",
+      "short_description": "Simplilearn's DevOps Certification Training Course will prepare you for a career in DevOps, the fast-growing field that bridges the gap between software developers and operations. You’ll become an expert in the principles of continuous development and deployment, automation of configuration management, inter-team collaboration, and IT service agility, using modern DevOps tools such as Git, Docker, Jenkins, Puppet, and Nagios. DevOps jobs are highly paid and in great demand, so start on your path today.",
+      "start": "2016-09-12T18:00:00Z",
+      "start_display": "Sept. 12, 2016",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@8"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/EYC03cDb1GE",
+      "effort": "one hour/day",
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@18",
+      "media": {
+        "banner_image": {
+          "uri": "",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/EYC03cDb1GE/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/EYC03cDb1GE"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/EYC03cDb1GE/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/EYC03cDb1GE/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/EYC03cDb1GE/maxresdefault.jpg"
+        }
+      },
+      "name": "Machine Learning Algorithms and Projects | Machine Learning For Beginners | Simplilearn",
+      "number": "PY1x",
+      "org": "Simplilearn",
+      "short_description": "Ranked #1 AI and Machine Learning course by TechGig Fast track your career with our comprehensive Post Graduate Program in AI and Machine Learning, in partnership with Purdue University and in collaboration with IBM. This AI and machine learning certification program will prepare you for one of the world’s most exciting technology frontiers. This Post Graduate Program in AI and Machine Learning covers statistics, Python, machine learning, deep learning networks, NLP, and reinforcement learning. You will build and deploy deep learning models on the cloud using AWS SageMaker, work on voice assistance devices, build Alexa skills, and gain access to GPU-enabled labs.",
+      "start": "2022-09-12T18:00:00Z",
+      "start_display": "Sept. 12, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@9"
+    },
+    {
+      "blocks_url": "https://www.youtube.com/embed/bMknfKXIFA8",
+      "effort": "one hour/day",
+      "end": null,
+      "enrollment_start": "2022-08-08T18:00:00Z",
+      "enrollment_end": null,
+      "id": "ccx-v1:BUx+PY1x+3T2016+ccx@19",
+      "media": {
+        "banner_image": {
+          "uri": "",
+          "uri_absolute": ""
+        },
+        "course_image": {
+          "uri": "https://i3.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg"
+        },
+        "course_video": {
+          "uri": "https://www.youtube.com/embed/bMknfKXIFA8"
+        },
+        "image": {
+          "raw": "https://i3.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg",
+          "small": "http://i3.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg",
+          "large": "https://i3.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg"
+        }
+      },
+      "name": "React Course - Beginner's Tutorial for React JavaScript Library",
+      "number": "PY1x",
+      "org": "Bob Ziroll",
+      "short_description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. After completing this course, you will be able to build web apps in modern React, using patterns like functional components and hooks.",
+      "start": "2022-09-12T18:00:00Z",
+      "start_display": "Sept. 12, 2022",
+      "start_type": "timestamp",
+      "pacing": "instructor",
+      "mobile_available": true,
+      "hidden": false,
+      "invitation_only": false,
+      "course_id": "ccx-v1:adam+Mac_APccx+e0d+ccx@10"
+    }
+  ],
+  "pagination": {
+    "next": "https://courses.edx.org/api/courses/v1/courses/?page=2",
+    "previous": null,
+    "count": 20490,
+    "num_pages": 2049
+  },
+  "category": [
+    {
+      "title": "Front-End Developer",
+      "description": "Build web applications using industry-standard tools and programming systems",
+      "like": {
+        "name": "If you like",
+        "a": "Problem solving",
+        "b": "Thinking creatively",
+        "c": "Creating great user experiences"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/meta-front-end-developer.png",
+      "src": "Freecodecamp",
+      "src_img": "./images/freecodecamp.jpg"
+    },
+    {
+      "title": "Back-End Developer",
+      "description": "Create responsive websites and develop interactive experiences using industry-standard tools and languages",
+      "like": {
+        "name": "If you like",
+        "a": "Problem solving",
+        "b": "Troubleshooting",
+        "c": "Collaborating"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/back-end-developer.png",
+      "src": "Freecodecamp",
+      "src_img": "./images/freecodecamp.jpg"
+    },
+    {
+      "title": "Digital Marketer",
+      "description": "Define and develop digital strategies to deliver business growth through online channels",
+      "like": {
+        "name": "If you like",
+        "a": "Understanding people",
+        "b": "Problem solving",
+        "c": "Working with numbers"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Digital_Marketer.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "IT Support Specialist",
+      "description": "Evaluate and troubleshoot technology issues so equipment runs smoothly",
+      "like": {
+        "name": "If you like",
+        "a": "Problem solving",
+        "b": "Troubleshooting",
+        "c": "Helping people"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/IT-support-specialist.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Collect, organize, and transform data to make informed decisions",
+      "like": {
+        "name": "If you like",
+        "a": "Attention to details",
+        "b": "Working with numbers",
+        "c": "Problem solving"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Rectangle_3371-2.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Oversee the planning and execution of projects to ensure they’re successful",
+      "like": {
+        "name": "If you like",
+        "a": "Communication",
+        "b": "Leading a team",
+        "c": "Problem solving"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Project_Management.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "UX Designer",
+      "description": "Make digital and physical products easier and more enjoyable to use",
+      "like": {
+        "name": "If you like",
+        "a": "Thinking creatively",
+        "b": "Understanding people",
+        "c": "Problem solving"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/UX_Design.png",
+      "src": "Freecodecamp",
+      "src_img": "./images/freecodecamp.jpg"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Extract and analyze data to make informed business decisions",
+      "like": {
+        "name": "If you like",
+        "a": "Working with numbers",
+        "b": "Intellectual curiosity",
+        "c": "Writing and communication"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Data_Science.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Develop strategies to protect organizations from cyber-attacks and disruptions",
+      "like": {
+        "name": "If you like",
+        "a": "Problem solving",
+        "b": "Technical challenges",
+        "c": "Attention to detail"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Rectangle_3371-1.png",
+      "src": "Freecodecamp",
+      "src_img": "./images/freecodecamp.jpg"
+    },
+    {
+      "title": "Application Developer",
+      "description": "Create responsive websites and develop interactive experiences using industry-standard tools and languages",
+      "like": {
+        "name": "If you like",
+        "a": "Managing projects",
+        "b": "Learning new technologies",
+        "c": "Problem solving"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Rectangle_3371-5.png",
+      "src": "Freecodecamp",
+      "src_img": "./images/freecodecamp.jpg"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Design and build systems to collect and transform data into useable information for data science",
+      "like": {
+        "name": "If you like",
+        "a": "Problem solving",
+        "b": "Identifying patterns",
+        "c": "Creating great user experiences"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Data_Engineering.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "Build the tools & infrastructure to allow companies to maintain and improve their platform",
+      "like": {
+        "name": "If you like",
+        "a": "Collaborating",
+        "b": "Building tools",
+        "c": "Problem solving"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/5.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "Marketing Analyst",
+      "description": "Perform research and gather data to help companies market their products or services",
+      "like": {
+        "name": "If you like",
+        "a": "Working with numbers",
+        "b": "Understanding people",
+        "c": "Collaborating"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/image__5_.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    },
+    {
+      "title": "Social Media Marketer",
+      "description": "Social media specialists establish, build, and manage a company’s social media",
+      "like": {
+        "name": "If you like",
+        "a": "Following trends",
+        "b": "Thinking creatively",
+        "c": "Engaging with people"
+      },
+      "certificate": "Recommended Professional Certificate(s)",
+      "img_url": "./images/Rectangle_3371-3.png",
+      "src": "Simplilearn",
+      "src_img": "./images/simplilearn.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "ossai lucky",
+      "email": "luckyblaqy@gmail.com",
+      "password": "ossai12345"
+    },
+    {
+      "id": 1,
+      "fullName": "kelachi Victor",
+      "email": "kelachivictor@gmail.com",
+      "password": "kelachi12345"
+    },
+    {
+      "fullName": "david",
+      "email": "omietekama15@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "fullName": "abele",
+      "email": "abeleprince@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "fullName": "efe",
+      "email": "efe@gmail.com",
+      "password": "uhghjjkjkjhjhk",
+      "id": 4
+    },
+    {
+      "fullName": "ifeyinwa ariavwe",
+      "email": "ifyuya11@gmail.com",
+      "password": "12345",
+      "id": 5
+    }
+  ]
+}

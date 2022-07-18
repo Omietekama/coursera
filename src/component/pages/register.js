@@ -1,0 +1,92 @@
+import React, {useState} from 'react'
+import { useNavigate, Link } from 'react-router-dom';
+
+const styled = {
+    signup : {
+        marginTop: "200px",
+    
+
+    },
+
+    input:{
+        width: "25%",
+        height: "40px",
+        borderRadius: "5px",
+        
+    },
+    label:{
+        marginRight: "300px",
+        
+    
+    },
+
+    button:{
+        backgroundColor: "#0056D2",
+        width: "25%",
+        height: "30px",
+        marginLeft: "0",
+        borderRadius: "5px",
+        marginTop: "10px"
+    }
+
+}
+const Register = ({setUser}) => {
+    const  [fullName,setFullName]= useState("");
+    const  [email,setEmail]= useState("");
+    const  [password,setPassword]= useState("");
+
+    const navigate = useNavigate();
+
+    const handleSubmit = (e)=>{
+        e.preventDefault();
+        const data ={fullName, email, password};
+        const url ="http://localhost:3000/users";
+
+        fetch(url,{
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(data)
+        }).then(()=>{
+            console.log("new user added")
+        })
+
+        setUser({fullName:fullName,email:email,password:password})
+            navigate("/dashboard")
+    }   
+    
+  return (
+    <div>
+        <section style={styled.signup} className='signup'>
+                <h1>Sign Up</h1>
+                <p>Learn on your own time on protekh</p>
+                
+            
+                    
+
+                        
+                            <form className='signup_banner' onSubmit={handleSubmit} >
+                            <label style={styled.label} name="email">FULL NAME</label>
+                                <p><input style={styled.input} name="fullname" type="text" placeholder="Full Name" required value={fullName} onChange={(e)=>setFullName(e.target.value)}></input></p>
+                                <label style={styled.label} name="email">EMAIL</label>
+                                <p><input style={styled.input} name="email" type="email" placeholder="example@email.com" required value={email} onChange={(e)=>setEmail(e.target.value)}></input></p>
+                                <label style={styled.label} name="email">PASSWORD</label>
+                                <p><input style={styled.input} name="" type="password" placeholder="input password" required value={password} onChange={(e)=>setPassword(e.target.value)}></input></p>
+                                <button style={styled.button} type='submit'> Sign Up</button>
+                            </form>
+                        
+                
+                
+                <div>
+                    
+                    <div className='signup_footer'>
+                        <p>Already on protekh?</p>
+                        <Link to='#'>Log In</Link>
+                    </div>
+                </div>
+            </section>
+    </div>
+
+  )
+}
+
+export default Register
