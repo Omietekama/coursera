@@ -18,24 +18,17 @@ import "./component/scss/Home.scss";
 import SharedLayout from "./component/pages/SharedLayout";
 import Home from "./component/pages/Home";
 import NewCareer from "./component/pages/exploreCert"
+import SearchSingleCourse from "./component/pages/SearchSingleCourse";
 
 function App() {
   const [user, setUser] = useState(null)
   return (
     <div className="App">
       
-     {/* <AllCourses />
-     <CareerStep />
-     <CoursesInfo />
-     <CompleteCert /> */}
-     {/* <ExploreCert /> */}
-     {/* <Slide /> */}
-      {/* <Login />  */}
-      {/* <Register /> */}
-
     <Routes>
       <Route path="/" element={<SharedLayout />}>
       <Route index element={<Home />}></Route>
+      <Route path="/:ID" element={<SearchSingleCourse />}></Route>
       <Route path="/exploreCert" element={<NewCareer />}></Route>
       <Route path="/login" element={<Login setUser={setUser} />}></Route>
       <Route path="/register" element={<Register setUser={setUser} />}></Route>

@@ -7,6 +7,7 @@
       "enrollment_start": "2022-07-21T10:00:00Z",
       "enrollment_end": "2022-06-29T10:00:00Z",
       "id": "ccx-v1:adam+Mac_APccx+e0d+ccx@3",
+      "uri": "https://i3.ytimg.com/vi/RBSGKlAvoiM/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "/asset-v1:adam+Mac_APccx+e0d+type@asset+block@images_course_image.jpg",
@@ -44,6 +45,7 @@
       "enrollment_start": "2015-07-21T10:00:00Z",
       "enrollment_end": "2016-06-29T10:00:00Z",
       "id": "ccx-v1:adam+Mac_APccx+e0d+ccx@1",
+      "uri": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "https://i3.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
@@ -81,6 +83,7 @@
       "enrollment_start": null,
       "enrollment_end": "2022-07-18T00:00:00Z",
       "id": "ccx-v1:BerkeleyX+CS169.1x+3T2015SP+ccx@11",
+      "uri": "https://i3.ytimg.com/vi/grEKMHGYyns/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "/asset-v1:BerkeleyX+CS169.1x+3T2015SP+type@asset+block@images_course_image.jpg",
@@ -118,6 +121,7 @@
       "enrollment_start": null,
       "enrollment_end": "2016-07-18T00:00:00Z",
       "id": "ccx-v1:BerkeleyX+CS169.1x+3T2015SP+ccx@5",
+      "uri": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "https://i3.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg",
@@ -155,13 +159,14 @@
       "enrollment_start": "2022-08-08T18:00:00Z",
       "enrollment_end": null,
       "id": "ccx-v1:BUx+PY1x+3T2016+ccx@12",
+      "uri": "https://i3.ytimg.com/vi/LHBE6Q9XlzI/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
           "uri_absolute": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg"
         },
         "course_image": {
-          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+          "uri": "https://i3.ytimg.com/vi/LHBE6Q9XlzI/maxresdefault.jpg"
         },
         "course_video": {
           "uri": "https://www.youtube.com/embed/LHBE6Q9XlzI"
@@ -192,13 +197,14 @@
       "enrollment_start": "2022-08-08T18:00:00Z",
       "enrollment_end": null,
       "id": "ccx-v1:BUx+PY1x+3T2016+ccx@13",
+      "uri": "https://i3.ytimg.com/vi/0oyCUWLL_fU/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
           "uri_absolute": ""
         },
         "course_image": {
-          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+          "uri": "https://i3.ytimg.com/vi/0oyCUWLL_fU/maxresdefault.jpg"
         },
         "course_video": {
           "uri": "https://www.youtube.com/embed/0oyCUWLL_fU"
@@ -229,13 +235,14 @@
       "enrollment_start": "2022-08-08T18:00:00Z",
       "enrollment_end": null,
       "id": "ccx-v1:BUx+PY1x+3T2016+ccx@14",
+      "uri":"https://i3.ytimg.com/vi/GixS3l0cg3Y/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "",
           "uri_absolute": ""
         },
         "course_image": {
-          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+          "uri":"https://i3.ytimg.com/vi/GixS3l0cg3Y/maxresdefault.jpg"
         },
         "course_video": {
           "uri": "https://www.youtube.com/embed/GixS3l0cg3Y"
@@ -266,13 +273,14 @@
       "enrollment_start": "2022-08-08T18:00:00Z",
       "enrollment_end": null,
       "id": "ccx-v1:BUx+PY1x+3T2016+ccx@17",
+      "uri": "https://img.youtube.com/vi/ynkHdu8vOYQ/hqdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg",
           "uri_absolute": "https://courses.edx.org/asset-v1:BUx+PY1x+3T2016+type@asset+block@images_course_image.jpg"
         },
         "course_image": {
-          "uri": "/asset-v1:BUx+PY1x+3T2016+type@asset+block@AP_Physics_Dashboard_Image.png"
+          "uri": "https://img.youtube.com/vi/ynkHdu8vOYQ/hqdefault.jpg"
         },
         "course_video": {
           "uri": "https://www.youtube.com/embed/ynkHdu8vOYQ"
@@ -340,6 +348,7 @@
       "enrollment_start": "2022-08-08T18:00:00Z",
       "enrollment_end": null,
       "id": "ccx-v1:BUx+PY1x+3T2016+ccx@19",
+      "uri": "https://i3.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg",
       "media": {
         "banner_image": {
           "uri": "",

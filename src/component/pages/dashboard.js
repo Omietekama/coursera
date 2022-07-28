@@ -50,7 +50,6 @@ const Dashboard = ({user}) => {
         const response = await fetch(url);
         const courseInfo = await response.json();
         setCourse(courseInfo);
-        console.log(course)
     }
 
     useEffect(()=>{

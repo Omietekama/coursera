@@ -11,6 +11,36 @@ $black : #1F1F1F;
 .search_bar {
     display: flex;
 
+
+    .dataResult{
+        display: flex;
+        flex-direction: column;
+        width: 350px;
+        height: 300px;
+        position: absolute;
+        top: 55px;
+        background-color: #FFFFFF;
+        border-radius: 5px;
+        overflow: hidden;
+        overflow-y: auto;
+        .dataItem{
+            text-decoration: none;
+            font-weight: 600;
+            color: #1F1F1F;
+            margin-top: 20px;
+            text-align: left;
+            padding: 5px;
+        }
+        a:hover{
+            background-color: aliceblue;
+            
+        }
+    }
+
+    .dataResult::-webkit-scrollbar{
+        display: none;
+    }
+
     .search {
         height: 2.5rem;
         width: 19.631875rem;

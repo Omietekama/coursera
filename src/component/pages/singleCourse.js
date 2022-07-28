@@ -46,7 +46,7 @@ const SingleCourse = () => {
     <div>
         
          <CourseReturn {...courseEvery} />  
-    hello</div>
+    </div>
   )
 }
 
